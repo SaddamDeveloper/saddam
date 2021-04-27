@@ -5,7 +5,7 @@
 
 <h3 align="center">A developer passionate about technology.</h3>
 
-<p align="center"> 💼 Working at <a href="https://github.com/Shadow-Developers-Inc">Web Infotech</a> </p> 
+<p align="center"> 💼 Working at <a href="https://www.webinfotech.net.in/">Web Infotech</a> </p> 
 <p align="center"> ⚡ Fun fact: crazy about music 🎹: </p>
 
 
@@ -15,13 +15,13 @@
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
+  <a href="https://www.linkedin.com/in/saddam-hussain-72037289/">
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
-  <a href="https://instagram.com/ryihan55">
+  <a href="https://www.instagram.com/saddam.freethinker/">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="mailto:ryihan55@gmail.com">
+  <a href="mailto:sishack8@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
   <a href="https://stackoverflow.com/users/13554586/growbing-development-inc">
